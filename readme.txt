@@ -1,3 +1,4 @@
 git is a version control system.
 git is free software
-this is new !!
+this is new !
+append GPL
