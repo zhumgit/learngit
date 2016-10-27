@@ -4,3 +4,4 @@ this is new !
 append GPL
 git has a mutable index called stage
 git tracks changes of files
+My stupid boss still prefer SVN
